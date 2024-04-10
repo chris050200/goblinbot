@@ -1,5 +1,5 @@
 # legend-robot
-Open Source Human Robots &amp; CAD Models
+Open Source Human Robot &amp; CAD Models
 
 Coming Soon
 
