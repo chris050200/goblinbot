@@ -1,6 +1,5 @@
 # legend-robot
 
-Open Source Human Robot &amp; CAD Models
 
 <img src="https://github.com/chris050200/legend-robot/blob/main/Master-Cross-Section-Latest.JPG" width=25% height=25% />
 
