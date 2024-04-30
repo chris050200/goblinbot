@@ -1,7 +1,7 @@
 # legend-robot
 
 
-<img src="https://github.com/chris050200/legend-robot/blob/main/Master-Cross-Section-Latest.JPG" width=25% height=25% />
+<img src="https://github.com/chris050200/legend-robot/blob/main/Master-Cross-Section-Latest.JPG" width=35% height=35% />
 
 In Development 
 
