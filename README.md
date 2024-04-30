@@ -8,6 +8,4 @@ Isaac Gym RL Locomotion Controller
 
 Full Figure CAD for Sub $10,000 BOM Humanoid
 
-![ScreenShot](https://github.com/chris050200/legend-robot/blob/main/Master-Cross-Section-Latest.JPG)
-
-<img src="https://github.com/chris050200/legend-robot/blob/main/Master-Cross-Section-Latest.JPG" width="250" height="250"/>
+<img src="https://github.com/chris050200/legend-robot/blob/main/Master-Cross-Section-Latest.JPG" width="250" height="500"/>
