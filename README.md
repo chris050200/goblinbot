@@ -5,3 +5,8 @@
 
 In Development 
 
+CAD and Locomotion controller for sub $10,000 BOM Humanoid
+
+To be posted soon:
+
+Isaac Gym RL Locomotion Controller
