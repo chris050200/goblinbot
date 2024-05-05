@@ -11,3 +11,10 @@ CAD and Locomotion controller for sub $10,000 BOM Humanoid - REV 1 Available for
 To be posted soon:
 
 Isaac Gym RL Locomotion Controller
+
+
+MIT License with Commons Clause
+
+Copyright (c) 2024  Legend Dynamics, Chris Vallone
+
+This project is licensed under the [MIT License with Commons Clause], which permits non-commercial use, modification, and distribution of the software. See the [LICENSE] file for more details.
