@@ -6,7 +6,19 @@
 
 In Development 
 
-CAD and Locomotion controller for sub $10,000 BOM Humanoid - REV 1 Available for download 
+CAD for sub $10,000 BOM Humanoid - REV 1 Available for download 
+
+
+<img src="https://github.com/chris050200/legend-robot/blob/main/Upper_Body_Servo_70mm.JPG" width=20% height=20% />
+Upper Body Servo (70mmx70mm)
+Peak Torque 9Nm
+Open Sourced Under MIT License
+
+<img src="https://github.com/chris050200/legend-robot/blob/main/Lower_Body_Servo_110mmm.JPG" width=20% height=20% />
+Lower Body Servo (110mmx110mm)
+Peak Torque 100Nm
+Open Sourced Under MIT License
+
 
 To be posted soon:
 
