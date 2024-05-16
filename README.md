@@ -8,13 +8,13 @@ Full Figure CAD for sub $10,000 BOM Humanoid - REV 1 Available for download, Ope
 
 ## Upper Body Servo
 <img src="https://github.com/chris050200/legend-robot/blob/main/Upper_Body_Servo_70mm.JPG" width=20% height=20% />
-Upper Body Servo (70mmx70mm)
+Upper Body Servo (70mmx70mm) Upper_Body_Servo_70mm.step
 Peak Torque 9Nm
 Open Sourced Under MIT License, See [LICENSE.txt](./LICENSE.txt).
 
 ## Lower Body Servo
 <img src="https://github.com/chris050200/legend-robot/blob/main/Lower_Body_Servo_110mmm.JPG" width=20% height=20% />
-Lower Body Servo (110mmx110mm)
+Lower Body Servo (110mmx110mm) Lower_Body_Servo_110mm.step
 Peak Torque 100Nm
 Open Sourced Under MIT License, See [LICENSE.txt](./LICENSE.txt).
 
